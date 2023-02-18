@@ -13,8 +13,7 @@ body {
     color: white;
     text-shadow: 0 0 20px #48C8FF;
     display: inline-flex;
-    text-align: center;
-    margin-right: 150px;
+    margin-right: 250px;
     
   }
   #message {
